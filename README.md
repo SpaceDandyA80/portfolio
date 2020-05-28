@@ -1,2 +1,2 @@
 ## portfolio
-*updated portfolio
+* updated portfolio
